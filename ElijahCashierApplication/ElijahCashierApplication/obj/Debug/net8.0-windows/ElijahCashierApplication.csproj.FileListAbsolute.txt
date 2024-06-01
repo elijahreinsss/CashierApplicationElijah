@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.frmLoginAccount.resources
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.frmPurchaseDiscountedItem.resources
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\bin\Debug\net8.0-windows\ElijahCashierApplication.exe
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\bin\Debug\net8.0-windows\ElijahCashierApplication.deps.json
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\bin\Debug\net8.0-windows\ElijahCashierApplication.runtimeconfig.json
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\bin\Debug\net8.0-windows\ElijahCashierApplication.dll
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\bin\Debug\net8.0-windows\ElijahCashierApplication.pdb
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.dll
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\refint\ElijahCashierApplication.dll
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.pdb
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ElijahCashierApplication.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ElijahCashierApplication\ElijahCashierApplication\obj\Debug\net8.0-windows\ref\ElijahCashierApplication.dll
